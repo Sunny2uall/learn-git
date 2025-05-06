@@ -1,2 +1,2 @@
 # learn-git
-<br>Author: Sourav Satpathy
+<br>Author: Sourav Satpathy.
